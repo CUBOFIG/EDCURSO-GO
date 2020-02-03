@@ -6,7 +6,7 @@ func main() {
 
 	name, lastname := "Heriberto", "Figueroa"
 
-	fmt.Println(name)
+	fmt.Println(name, lastname)
 
 	name, edad := "Maaria", 20
 
